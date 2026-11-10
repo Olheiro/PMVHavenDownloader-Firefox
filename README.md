@@ -16,6 +16,15 @@ FEATURES:
 - Dark and light mode available (dark is default).
 - No data is ever collected or transmitted, all processing is done locally.
 
+INSTALLATION:
+The extension can be installed from Mozilla at https://addons.mozilla.org/en-US/firefox/addon/pmvhaven-downloader. That will make the installation permanent and allow automatic updates, while a manual installation with the file in this repository only works until Firefox is restarted. For a manual installation, follow the steps below:
+
+- On Firefox, type about:debugging in the address bar.
+- Click on _This Firefox_ on the left.
+- Click on _Load Temporary Add-on..._
+- Locate the .zip file with the extension.
+- Click the extensions button on the toolbar or type about:extensions in the address bar and click the extension's card to pin the icon to the toolbar or allow the extension in incognito windows as desired.
+
 DISCLAIMERS:
 - I am not affiliated with or otherwise represent PMVHaven.com.
 - This extension was coded using Claude AI.

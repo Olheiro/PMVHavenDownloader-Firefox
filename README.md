@@ -24,7 +24,7 @@ The extension can be installed from Mozilla at https://addons.mozilla.org/en-US/
 - Click on _This Firefox_ on the left.
 - Click on _Load Temporary Add-on..._
 - Locate the .zip file with the extension.
-- Click the extensions button on the toolbar or type about:extensions in the address bar and click the extension's card to pin the icon to the toolbar or allow the extension in incognito windows as desired.
+- Click the extension's button on the toolbar or type about:extensions in the address bar and click on the extension's card to pin the icon to the toolbar or allow the extension in incognito windows as desired.
 
 **DISCLAIMERS:**
 - I am not affiliated with or otherwise represent PMVHaven.com.
